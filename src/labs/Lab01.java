@@ -19,10 +19,7 @@ public class Lab01 {
 	
 	
 	/*
-	 * ONLY PLAY WITH THIS FOR #2
-	 * ONLY PLAY WITH THIS FOR #2
-	 * ONLY PLAY WITH THIS FOR #2
-	 * ONLY PLAY WITH THIS FOR #2
+	 *
 	 */
 	public static void main(String[] args) {
 		
